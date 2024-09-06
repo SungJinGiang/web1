@@ -1,6 +1,20 @@
-.heading {
-    color: rgb(112, 112, 151);
+.title {
+    color: rgb(43, 189, 70);
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 18pt;
+}
 
+.content {
+    color: blueviolet;
+    font-family: Arial;
+    font-style: italic;
+    font-size: 14pt;
+}
+
+.link {
+    color: green;
+    text-decoration: none;
 }
 
 .para {
